@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### App Screenshots
 
 
-![alt text](puplic/Screenshot(2).png)
+![alt text](https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(1).png)
 
 
 
