@@ -11,13 +11,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### App Screenshots
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+![alt text](https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(1).png)
+![alt text](https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(2).png)
 
-![alt text](https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(1).png)  |  ![alt text](https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(2).png)
-
-![alt text](https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(3).png)
+![alt text](https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(3).png =20x20)
 ![alt text](https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(4).png)
+<img src="https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(4).png" width="20" height="20" />
 
 
 
