@@ -14,8 +14,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Full App             
 :-------------------------:
 
-<img src="https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(1).png" width="1000" height="550" /> 
-<img src="https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(2).png" width="1000" height="550" />
+<img src="https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(1).png" width="1000" height="520" /> 
+<img src="https://github.com/Mo2menAG/React-Music-App/blob/main/public/Screenshot(2).png" width="1000" height="520" />
 
 
 Mobile App             
