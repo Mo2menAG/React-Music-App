@@ -11,10 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### App Screenshots
 
-![Alt text](/puplic/Screenshot (1).png?raw=true "Optional Title")
-![Alt text](/puplic/Screenshot (2).png?raw=true "Optional Title")
-![Alt text](/puplic/Screenshot (3).png?raw=true "Optional Title")
-![Alt text](/puplic/Screenshot (4).png?raw=true "Optional Title")
+![alt text](puplic/Screenshot (2).png)
+![Alt text](puplic/Screenshot (2).png)
 
 
 
