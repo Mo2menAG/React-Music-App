@@ -71,6 +71,36 @@ function chillHop() {
         id: uuidv4(),
         active: false,
       },
+      {
+        name: "Click",
+        cover:
+          "https://chillhop.com/wp-content/uploads/2020/07/c572841e8431cebc120dffed4f92119f723dd954-1024x1024.jpg",
+        artist: "Dontcry, Nokiaa",
+        audio: "https://mp3.chillhop.com/serve.php/?mp3=8465",
+        color: ["#FFB640", "#E04528"],
+        id: uuidv4(),
+        active: false,
+      },
+      {
+        name: "Lilo",
+        cover:
+          "https://chillhop.com/wp-content/uploads/2020/11/8a0c857ddad531279d0757f5362380a6837b1b69-1024x1024.jpg",
+        artist: "Middle School, The Field Tapes",
+        audio: "https://mp3.chillhop.com/serve.php/?mp3=11244",
+        color: ["#FFB640", "#E04528"],
+        id: uuidv4(),
+        active: false,
+      },
+      {
+        name: "Rest Until Dark",
+        cover:
+          "https://chillhop.com/wp-content/uploads/2020/09/c209a7df7b9bc133dfff73ce86ebc3c57c2b73dd-1024x1024.jpg",
+        artist: "Sleepy Fish",
+        audio: "https://mp3.chillhop.com/serve.php/?mp3=10015",
+        color: ["#FFB640", "#E04528"],
+        id: uuidv4(),
+        active: false,
+      },
     //ADD MORE HERE
   ];
 }
