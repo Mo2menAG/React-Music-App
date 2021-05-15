@@ -4,5 +4,32 @@
   box-sizing: border-box;
 }
 
+h1,
+h2,
+h3,
+h4 {
+  color: rgb(54, 52, 52);
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+h3,
+h4 {
+  font-weight: 400;
+  color: rgb(54, 52, 52);
+}
+
+.App {
+  transition: all 0.5s ease;
+}
+
+.library-active {
+  margin-left: 25%;
+}
+
 @import "./player";
 @import "./song";
+@import "./library";
+@import "./nav";
