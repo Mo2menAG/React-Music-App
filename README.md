@@ -12,7 +12,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### App Screenshots
 
 ![alt text](puplic/Screenshot (2).png)
-![Alt text](puplic/Screenshot (2).png)
 
 
 
